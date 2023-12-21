@@ -5,6 +5,6 @@
 </div>
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinarypoet&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinarypoet&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
